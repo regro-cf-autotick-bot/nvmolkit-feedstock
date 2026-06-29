@@ -1,5 +1,5 @@
 context:
-  version: "0.5.0"
+  version: "0.5.1"
 
 package:
   name: "nvmolkit"
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/NVIDIA-Digital-Bio/nvMolKit/archive/v${{ version }}.tar.gz
-  sha256: eecb348a04f456f051389d12eae967ba05879077d2b2536ebf0996ec64336acf
+  sha256: cda91a8b499026e7595cb97a5936609a01e02dc82306401d6ad8ff96fe626f12
 
 build:
   number: 0
